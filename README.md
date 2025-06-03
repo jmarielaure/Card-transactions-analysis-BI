@@ -29,21 +29,19 @@ Ce tableau de bord est destiné à plusieurs équipes métiers :
 
 ## 🔧 Préparation des données & Modélisation
 
-Nosu avons choisi dune modélisation en flocon par choix même si le schéma en étoile est réputé pour avoir de meilleurs performance et faciliter l'écriture des mesures DAX
+Nous avons choisi dune modélisation en flocon par choix même si le schéma en étoile est réputé pour avoir de meilleurs performance et faciliter l'écriture des mesures DAX
 
 ### Transformations Power Query
 * Nettoyage et enrichissement des données (filtrage, suppression des doublons et de colonne, correction des formats)
-* Création de colonnes calculées pour uniformiser les catégories (ex : regroupement des types de transactions)
- 
 * Fusion de plusieurs sources Excel en tables cohérentes
 * Creation de la table Ajout de colonnes temporelles pour faciliter l’analyse (année, trimestre, mois)
 
 ### Modélisation et calculs DAX
 * Création des relations entre les tables (transactions, clients, commerçants)
+* Creation de tables calculées dont une bridge table pour éviter les relations N - N
 * Mesures clés calculées en DAX pour les indicateurs métiers (ex : taux de réussite, montant moyen par transaction, total dépensé par client)
 * Colonnes calculées pour segmenter les clients selon score de crédit, tranche d’âge, et état d’endettement
-* Création de paramètre et mise en place de KPI dynamiques pour piloter les visuels interactifs
-* Creation de table calculée
+* Création de paramètre de champs et mise en place de KPI dynamiques pour piloter les visuels interactifs
 * Utilisation des fonctions DAX avancées pour les analyses temporelles (YTD, variations mensuelles)
 
 ---
