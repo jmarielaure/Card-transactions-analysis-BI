@@ -48,22 +48,23 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 
 ## 🧾 Pages du rapport
 
-1. **Overview**  
-   → Vue globale des volumes de transactions (réussies vs échouées) et de leur évolution temporelle.
+1. **Approuved transaction**  
+   → Vue globale des volumes de transactions réussies et de leur évolution temporelle.
+   Cette page permet aussi de visualiser certains KPI classiques tel que la valeur et le nombre de transaction ou encore le taux de transactions converties
 
-2. **Declined Transactions**  
+3. **Declined Transactions**  
    → Analyse des transactions rejetées avec mise en évidence des causes.
 
-3. **Merchant Map**  
+4. **Merchant Map**  
    → Visualisation géographique des commerçants chez lesquels les achats ont été effectués.
 
-4. **Demographic**  
+5. **Demographic**  
    → Profil des utilisateurs : âge, score de crédit, salaire, statut de crédit.
 
-5. **Client Profile**  
-   → Analyse individuelle d’un client (via sélection ou drill-through) : tendances de dépenses, répartition par type d’achat, etc.
+6. **Client Profile**  
+   → Analyse individuelle d’un client : tendances de dépenses, répartition par type d’achat, liste des transactions, etc.
 
-6. **Debtors**  
+7. **Debtors (via sélection ou drill-through) **  
    → Focus sur les clients endettés avec filtrage par tranches (score, salaire, etc.) et possibilité d’explorer leurs comportements.
 
 ---
