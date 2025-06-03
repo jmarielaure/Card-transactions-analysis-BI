@@ -66,7 +66,7 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 5. **Client Profile**  
    → Analyse individuelle d’un client : tendances de dépenses, répartition par type d’achat, liste des transactions, etc.
 
-6. **Debtors table (via sélection ou drill-through) **  
+6. **Debtors table (via sélection ou drill-through)**  
    → Focus sur les clients endettés avec filtrage par tranches (score, salaire, etc.) et possibilité d’explorer leurs comportements.
 
 ---
