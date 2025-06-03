@@ -78,7 +78,7 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 * 🌍 Répartition des commerçants
 * 👤 Nombre d’utilisateurs par tranche d’âge / score / revenu
 * 🧾 Montant moyen par transaction
-* 🕵️ Focus client (total dépensé, fréquence, types de marchands)
+* 🕵️ Focus client (total dépensé, catégtories de dépenses, liste des transactions)
 * 🔴 Nombre de débiteurs par tranche
 
 ---
@@ -86,15 +86,16 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 ## ⚠️ Limitations connues
 
 * 📁 Mise à jour manuelle (pas de pipeline de rafraîchissement automatique) - à venir dans un prochain projet
-* Certains éléments pourraient être fait en amont (colonnes ou tables calculés dans DAX). Toutefois un objectif personnel étant de travailler avec DAX, des choix moins stratégiques ont été réalisées.
+* Certains éléments pourraient être fait en amont (colonnes ou tables calculés dans DAX). Toutefois un objectif personnel étant de davantage travailler avec DAX, des choix moins stratégiques ont été réalisés.
 ---
 
 ## 🔮 Améliorations futures
 
 * Connexion automatisée à une base de données transactionnelle
-* Ajout d’un système d’alertes (ex. : pic anormal de rejets)
+* Ajout d’un système d’alertes (ex. : pic anormal de rejets) si publication sur Power BI service
 * Dashboard mobile optimisé
 * Segmentation comportementale plus avancée
+* Plus de visuels permettant d'identifier des corrélations entre des KPI
 
 ---
 
