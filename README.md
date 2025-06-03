@@ -83,21 +83,10 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 
 ---
 
-## 🛠️ Utilisation
-
-* Ouvrir le fichier `.pbix` avec **Power BI Desktop** (dernière version conseillée)
-* Naviguer via le menu de pages
-* Utiliser les **filtres contextuels et les slicers** pour explorer les données
-* Utiliser les **drill-through** pour aller d’une vue globale vers une vue individuelle (ex. : Client Profile, Debtors)
-
----
-
 ## ⚠️ Limitations connues
 
-* 📁 Mise à jour manuelle (pas de pipeline de rafraîchissement automatique)
-* 📊 Données Excel → risque d’erreurs si format modifié
-* 📉 Performances à surveiller si le volume de données augmente fortement
-
+* 📁 Mise à jour manuelle (pas de pipeline de rafraîchissement automatique) - à venir dans un prochain projet
+* Certains éléments pourraient être fait en amont (colonnes ou tables calculés dans DAX). Toutefois un objectif personnel étant de travailler avec DAX, des choix moins stratégiques ont été réalisées.
 ---
 
 ## 🔮 Améliorations futures
@@ -111,7 +100,7 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 
 ## 👥 Contributeur
 
-* **Auteur** : *(à compléter avec ton nom ou ton pseudo)*  
-* **Rôle** : Création du rapport, modélisation des données, design des pages Power BI
+* **Auteur** : jmarielaure - projet personnel
+  
 
 ---
