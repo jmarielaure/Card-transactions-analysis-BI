@@ -67,7 +67,7 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
    → Analyse individuelle d’un client : tendances de dépenses, répartition par type d’achat, liste des transactions, etc.
 
 6. **Debtors table (via sélection ou drill-through)**  
-   → Focus sur les clients endettés avec filtrage par tranches (score, salaire, etc.) et possibilité d’explorer leurs comportements.
+   → Focus sur les clients endettés avec filtrage par tranches (score, salaire, etc.) et possibilité d’explorer certaines informations dont le ratio detets vs revenu.
 
 ---
 
