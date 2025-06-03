@@ -77,7 +77,7 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 * ✅ Taux de transactions réussies vs échouées
 * 📉 Taux de rejet & cause dominante
 * 🌍 Répartition des transactions par commerçants
-* 👤 Nombre d’utilisateurs par tranche d’âge / score / revenu
+* 👤 Nombre d’utilisateurs par tranche d’âge / score / revenu / etc.
 * 🧾 Montant moyen par transaction
 * 🕵️ Focus client (total dépensé, catégtories de dépenses, liste des transactions)
 * 🔴 Nombre de débiteurs par tranche
