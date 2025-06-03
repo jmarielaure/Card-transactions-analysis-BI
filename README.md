@@ -94,7 +94,6 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 
 * Connexion automatisée à une base de données transactionnelle
 * Ajout d’un système d’alertes (ex. : pic anormal de rejets) si publication sur Power BI service
-* Dashboard mobile optimisé
 * Segmentation comportementale plus avancée
 * Plus de visuels permettant d'identifier des corrélations entre des KPI
 
