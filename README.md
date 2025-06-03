@@ -13,7 +13,7 @@ Ce rapport Power BI permet d’analyser les transactions par carte bancaire effe
 
 Ce tableau de bord est destiné à plusieurs équipes métiers :
 
-* Les analystes des **tendances de transaction**
+* Les analystes des **tendances de transactions**
 * Les équipes **CRM et marketing** pour la segmentation des clients
 * Les **conseillers bancaires** pour l’analyse individuelle et la gestion des dettes
 
@@ -35,6 +35,7 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 * Nettoyage et enrichissement des données (filtrage, suppression des doublons et de colonne, correction des formats)
 * Fusion de plusieurs sources Excel en tables cohérentes
 * Creation de la table Ajout de colonnes temporelles pour faciliter l’analyse (année, trimestre, mois)
+* Creation de la table "merchant" à partir du fichier "transaction_data": import d'un fichier ad-hoc et creation d'une table de correspondance pour les données manquantes, jointure de tables.
 
 ### Modélisation et calculs DAX
 * Création des relations entre les tables (transactions, clients, commerçants)
