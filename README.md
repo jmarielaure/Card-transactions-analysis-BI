@@ -38,7 +38,7 @@ Ce tableau de bord peut être destiné à plusieurs équipes métiers :
 
 ### Modélisation et calculs DAX
 
-Nous avons choisi dune modélisation en flocon par choix même si le schéma en étoile est réputé pour avoir de meilleurs performance et faciliter l'écriture des mesures DAX
+Nous avons choisi dune modélisation en flocon par choix même si le schéma en étoile est réputé pour avoir de meilleures performances et faciliter l'écriture des mesures DAX
 
 * Création des relations entre les tables (transactions, clients, commerçants)
 * Creation de tables calculées dont une bridge table pour éviter les relations N - N
@@ -46,7 +46,7 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 * Colonnes calculées pour segmenter les clients selon score de crédit, tranche d’âge, et état d’endettement
 * Création de paramètre de champs et mise en place de KPI dynamiques pour piloter les visuels interactifs
   
-!(Semantic model.png)
+![Semantic model.png](https://github.com/jmarielaure/Card-transactions-analysis-BI/blob/main/dashboard%20screenshot/Semantic%20model.png)
 ---
 
 ## 🧾 Pages du rapport
