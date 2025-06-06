@@ -45,7 +45,8 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 * Mesures clés calculées en DAX pour les indicateurs métiers (ex : taux de réussite, montant moyen par transaction, total dépensé par client) _voir fichier liste de mesures DAX_
 * Colonnes calculées pour segmenter les clients selon score de crédit, tranche d’âge, et état d’endettement
 * Création de paramètre de champs et mise en place de KPI dynamiques pour piloter les visuels interactifs
-
+  
+!(Semantic model.png)
 ---
 
 ## 🧾 Pages du rapport
