@@ -13,9 +13,9 @@ Ce rapport Power BI permet d’analyser les transactions bancaires effectuées *
 
 Ce tableau de bord peut être destiné à plusieurs équipes métiers :
 
-* Les analystes des **tendances de transactions**
-* Les équipes **CRM et marketing** pour la segmentation des clients
-* Les **conseillers bancaires** pour l’analyse individuelle et la gestion des dettes
+* Les analystes des **tendances de transactions**, voires des ventes
+* Les équipes **CRM et marketing** afin de connaître la démographie et le profil des détenteurs des cartes bancaires
+* Les **conseillers bancaires** pour l’analyse individuelle des habitudes du client et la gestion des dettes
 
 ---
 
