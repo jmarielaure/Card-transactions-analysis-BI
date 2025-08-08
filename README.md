@@ -2,7 +2,7 @@
 
 ## 📝 Description
 
-Ce rapport Power BI permet d’analyser les transactions par carte bancaire effectuées **en ligne et en physique** sur une période donnée. Il offre une vue détaillée sur :
+Ce rapport Power BI permet d’analyser les transactions bancaires effectuées **en ligne et en magasin** entre Janvier 2010 et Octobre 2019 par 2000 utilisateurs. Il offre une vue détaillée sur :
 
 * Les tendances des transactions réalisées 
 * Le suivi des transactions rejetées et leurs causes
