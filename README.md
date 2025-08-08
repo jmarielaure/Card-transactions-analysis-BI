@@ -70,6 +70,13 @@ Nous avons choisi dune modélisation en flocon par choix même si le schéma en 
 6. **Debtors table (via sélection ou drill-through)**  
    → Focus sur les clients endettés avec filtrage par tranches (score, salaire, etc.) et possibilité d’explorer certaines informations dont le ratio detets vs revenu.
 
+(dashboard screenshot/rejected transactions page.png)
+---
+
+## 🖼️ Aperçu Visuel du Rapport
+
+Un aperçu de chaque page du rapport est disponible [ici](https://github.com/jmarielaure/Card-transactions-analysis-BI/tree/main/dashboard%20screenshot).
+
 ---
 
 ## 🧮 KPI & Mesures Clés
