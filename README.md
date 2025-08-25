@@ -21,9 +21,11 @@ Ce tableau de bord peut être destiné à plusieurs équipes métiers :
 
 ## 🔌 Sources de données
 
-* 📂 **Fichiers Excel et Json** : user_datan transaction_data, cards_data, mcc_json
+* 📂 **Fichiers Excel et Json** : user_data, transaction_data, cards_data, mcc_json
 * 📥 Mode d’importation : **Import**
 * 📅 Données mises à jour manuellement (sauf automatisation externe)
+
+Dataset complet disponible sur Kaggle: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
 
 ---
 
@@ -110,6 +112,7 @@ Un aperçu de chaque page mentionnée ci-dessous est disponible [ici](https://gi
 ## 👥 Contributeur
 
 * **Auteur** : jmarielaure - projet personnel
+* **Lien du dataset**: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
   
 
 ---
