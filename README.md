@@ -79,16 +79,16 @@ Un aperçu de chaque page mentionnée ci-dessous est disponible [ici](https://gi
 ---
 
 
-## 🧮 KPI & Mesures Clés
+## 🧮 Exemple de KPI & Mesures Clés
 
-* 💳 Nombre total de transactions
-* ✅ Taux de transactions réussies vs échouées
-* 📉 Taux de rejet & cause dominante
-* 🌍 Répartition des transactions par commerçants
-* 👤 Nombre d’utilisateurs par tranche d’âge / score / revenu / etc.
-* 🧾 Montant moyen par transaction
-* 🕵️ Focus client (total dépensé, catégtories de dépenses, liste des transactions)
-* 🔴 Nombre de débiteurs par tranche
+* 💳 Nombre total de transactions: plus de **13 095k transactions**  en 8 ans.
+* ✅ Taux de transactions réussies vs échouées : **98 %** des transactions sont approuvées
+* 📉 Taux de rejet & cause dominante: 2 % des transactions ont échoué, dont 62 % en raison d'un solde insuffisant.
+* 🌍 Répartition des transactions par commerçants: la majorité des transactions ont eu lieu en Amérique du Nord, avec 50 % du volume total
+* 👤 Nombre d’utilisateurs par tranche d’âge / score / revenu / etc. :  Le groupe majoritaire chez les utilisateurs sont les 45-54 ans, avec un _'credit score'_ supérieure à 710.
+* 🧾 Montant moyen par transaction: environ 41 € par transaction hors ligne approuvée et 57 € par transaction en ligne approuvée
+* 🕵️ Focus par client spécifique (total dépensé, catégtories de dépenses, liste des transactions réalisées)
+* 🔴 Nombre de débiteurs par tranche: 95 % des utilisateurs ont une dette et pour 80 % d'entre eux cette dette est inférieure à 100 000 €.
 
 ---
 
@@ -100,7 +100,7 @@ Un aperçu de chaque page mentionnée ci-dessous est disponible [ici](https://gi
 
 ## 🔮 Améliorations futures
 
-* Connexion automatisée à une base de données transactionnelle
+* Connexion automatisée à une base de données transactionnelle ou dans un environnement professionel au système traitant les transactions et données clients (ERP et CRM)
 * Ajout d’un système d’alertes (ex. : pic anormal de rejets) si publication sur Power BI service
 * Segmentation comportementale plus avancée
 * Plus de visuels permettant d'identifier des corrélations entre des KPI
